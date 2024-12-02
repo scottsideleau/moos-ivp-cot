@@ -1,0 +1,12 @@
+//----------------------------------------------------------------------------
+ProcessConfig = pCotReporter
+{
+  AppTick   = 1
+  CommsTick = 4
+
+  //Configuration Parameters
+  tak_server   = 137.184.101.250
+  tak_port     = 8087
+  tak_uid_base = TEST_
+}
+
